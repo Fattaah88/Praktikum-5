@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8POptg5tDW7H+i71fEJu9n2HQlPumoyMHJJXvF9SBUrcgEF5ECV35bxO021CaPAxBuw06RdhiF71I1LEe7eSA==",
+  "success": true,
+  "projectFilePath": "E:\\tata\\Pemrog\\Praktikum 5\\Praktikum5\\Praktikum5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

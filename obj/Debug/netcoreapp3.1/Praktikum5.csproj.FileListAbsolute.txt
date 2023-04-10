@@ -1,0 +1,14 @@
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.exe
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.deps.json
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.runtimeconfig.json
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.runtimeconfig.dev.json
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.dll
+E:\tata\Pemrog\Praktikum 5\Praktikum5\bin\Debug\netcoreapp3.1\Praktikum5.pdb
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.csproj.AssemblyReference.cache
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.GeneratedMSBuildEditorConfig.editorconfig
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.AssemblyInfoInputs.cache
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.AssemblyInfo.cs
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.csproj.CoreCompileInputs.cache
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.dll
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.pdb
+E:\tata\Pemrog\Praktikum 5\Praktikum5\obj\Debug\netcoreapp3.1\Praktikum5.genruntimeconfig.cache
